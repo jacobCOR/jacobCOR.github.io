@@ -21,8 +21,8 @@ If you have never played the game Final Fantasy XIV you might not be familiar wi
 
 [Figure 1](#figure-1) shows an example of a fully completed cactpot board.
 
-![Mini-Cactpot Board](../assets/images/cactpotboard.png)
-<a name="figure-1"></a>_Figure 1: A solved mini-cactpot board_
+<a name="figure-1"></a>![Mini-Cactpot Board](../assets/images/cactpotboard.png)
+**Figure 1**: _A solved mini-cactpot board_
 
 | Sum | Payout |
 | --- | --- |
@@ -46,4 +46,6 @@ If you have never played the game Final Fantasy XIV you might not be familiar wi
 | 23 | 1800 |
 | 24 | 3600 |
 
-<a name="figure-2"></a>_Figure 2: Mini-Cactpot payout board_
+<a name="figure-2"></a>**Figure 2**: _Mini-Cactpot payout board_
+
+## Statistics of a solved mini-cactpot board
