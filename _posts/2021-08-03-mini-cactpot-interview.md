@@ -21,7 +21,7 @@ If you have never played the game Final Fantasy XIV you might not be familiar wi
 
 [Figure 1](#figure-1) shows an example of a fully completed cactpot board.
 
-<a name="figure-1"></a>![Mini-Cactpot Board](../assets/images/cactpotboard.png)
+<a name="figure-1"></a>![Mini-Cactpot Board](../assets/images/cactpotboard.png){: height="230px" width="230px"}
 **Figure 1**: _A solved mini-cactpot board_
 
 | Sum | Payout |
@@ -48,4 +48,10 @@ If you have never played the game Final Fantasy XIV you might not be familiar wi
 
 <a name="figure-2"></a>**Figure 2**: _Mini-Cactpot payout board_
 
-## Statistics of a solved mini-cactpot board
+## Solving an already solved mini-cactpot board
+
+Take the board from [figure 1](#figure-1) and let's represent this board in array form and compute the MGP you would receive from any of the available lines. 
+```python
+board = [7, 6, 9, 4, 5, 3, 2, 1, 8]
+print(compute_evs(board))
+```
