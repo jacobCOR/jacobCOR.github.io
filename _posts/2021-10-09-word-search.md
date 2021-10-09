@@ -63,7 +63,7 @@ Where does the 4 come from?
 
 The 4 is the number of choices or neighbors present during our DFS, we have to call four neighboring cells in our DFS and each neighbor the next four cells until the word is found or not found.
 
-The space complexity is O(1) if you modify the matrix in-place.
+The space complexity is O(s) if you modify the matrix in-place, s being the number of calls on the call stack
 
 ## Word Search II
 
