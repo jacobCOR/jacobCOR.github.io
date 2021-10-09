@@ -30,7 +30,7 @@ markdown: kramdown
 github_url: https://github.com/kinilune
 
 # Theme
-remote_theme: erikh/hydeout
+remote_theme: kinilune/hydeout
 
 sidebar_home_link: true
 
